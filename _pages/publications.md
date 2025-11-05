@@ -1,0 +1,64 @@
+---
+title: "Publications"
+permalink: /publications/
+layout: single
+author_profile: true
+toc: true
+---
+
+## Full Publication List
+
+### 2025
+- **Jinghan Zhang**, Xiting Wang, Weijieying Ren, Lu Jiang, Dongjie Wang, Kunpeng Liu.  
+  _RATT: A Thought Structure for Coherent and Correct LLM Reasoning._  
+  *Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
+
+- **Jinghan Zhang**, Xiting Wang, Fengran Mo, Yeyang Zhou, Wanfu Gao, Kunpeng Liu.  
+  _Entropy-based Exploration Conduction for Multi-step Reasoning._  
+  *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, Vienna, Austria, 2025.
+
+- **Jinghan Zhang**, Xinhao Zhang, Fengran Mo, Yuzhong Chen, Kunpeng Liu.  
+  _Retrieval-Augmented Feature Generation for Domain-Specific Classification._  
+  *Proceedings of the 25th IEEE International Conference on Data Mining (ICDM)*, 2025.
+
+- **Xinhao Zhang**, **Jinghan Zhang**, Banafsheh Rekabdar, Yuanchun Zhou, Pengfei Wang, Kunpeng Liu.  
+  _Dynamic and Adaptive Feature Generation with Large Language Models._  
+  *Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI)*, 2025.
+
+- **Xinhao Zhang**, **Jinghan Zhang**, **Fengran Mo**, Dongjie Wang, Yanjie Fu, Kunpeng Liu.  
+  _LEKA: LLM-Enhanced Knowledge Augmentation._  
+  *Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI)*, 2025.
+
+- **Jinghan Zhang**, Henry Xie, Xinhao Zhang, Kunpeng Liu.  
+  _Enhancing Risk Assessment in Transformers with Loss-at-Risk Functions._  
+  *Proceedings of the IEEE International Conference on Knowledge Graph (ICKG)*, 2024 (published 2025).
+
+- **Xiaoyan Han**\*, Jin Ma\*, **Jinghan Zhang**, Kunpeng Liu, Feng Luo.  
+  _Understanding the Constraints of RAG-Based Medical LVLMs: A Case Study in Ophthalmic Report Generation._  
+  *Proceedings of the 1st Workshop on AI-ready Data for Science Discovery (ICDM-ADSD) at the IEEE International Conference on Data Mining (ICDM)*, 2025.
+
+---
+
+### 2024
+- **Jinghan Zhang**, Xiting Wang, Yiqiao Jin, Changyu Chen, Xinhao Zhang, Kunpeng Liu.  
+  _Prototypical Reward Network for Data-Efficient RLHF._  
+  *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024.
+
+- **Xinhao Zhang**, **Jinghan Zhang**, Wujun Si, Kunpeng Liu.  
+  _Dynamic Weight Adjusting Deep Q-Networks for Real-Time Environmental Adaptation._  
+  *Proceedings of the IEEE International Conference on Knowledge Graph (ICKG)*, 2024.
+
+- **Zaitian Wang**, **Jinghan Zhang**, Xinhao Zhang, Kunpeng Liu, Pengfei Wang, Yuanchun Zhou.  
+  _Diversity-Oriented Data Augmentation with Large Language Models._  
+  *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, 2025.
+
+- **Jinghan Zhang**, Kunpeng Liu.  
+  _Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning._  
+  *Proceedings of the IEEE International Conference on Big Data (BigData)*, 2024.
+
+---
+
+### 2023
+- Chang-Tien Lu, Le Ma, Ran Zhang, Yikun Han, Shirui Yu, Zaitian Wang, Zhiyuan Ning, **Jinghan Zhang**, Ping Xu, Pengjiang Li, Wei Ju, Chong Chen, Dongjie Wang, Kunpeng Liu, Pengyang Wang, Pengfei Wang, Yanjie Fu, Chunjiang Liu, Yuanchun Zhou.  
+  _A Comprehensive Survey on Vector Databases: Storage and Retrieval Techniques, Challenges, and Future Directions._  
+  *arXiv preprint arXiv:2310.11703*, 2023.
