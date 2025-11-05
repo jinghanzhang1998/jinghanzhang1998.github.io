@@ -24,6 +24,8 @@ Large Language Models, Reasoning Alignment, Data-efficient RLHF, Retrieval-Augme
 - Research Assistant, Portland State University, 2023–2025  
 
 **Selected Awards**
+- Female Student Award in Data Science, IEEE ICDM, 2025
+- Best Paper Award Candidate, IEEE ICDM, 2025
 - Robert M. Geist Endowed Fellowship, Clemson University, 2025  
 - Best Poster Presentation Award, IEEE Big Data, 2024  
 - Doctoral Forum Travel Award, SIAM SDM, 2024
