@@ -16,6 +16,7 @@ toc: true
 - **Jinghan Zhang**, Xiting Wang, Fengran Mo, Yeyang Zhou, Wanfu Gao, Kunpeng Liu.  
   _Entropy-based Exploration Conduction for Multi-step Reasoning._  
   *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, Vienna, Austria, 2025.
+  🔗 [Paper Link (ACL Anthology)](https://aclanthology.org/2025.findings-acl.201/)
 
 - **Jinghan Zhang**, Xinhao Zhang, Fengran Mo, Yuzhong Chen, Kunpeng Liu.  
   _Retrieval-Augmented Feature Generation for Domain-Specific Classification._  
@@ -43,6 +44,7 @@ toc: true
 - **Jinghan Zhang**, Xiting Wang, Yiqiao Jin, Changyu Chen, Xinhao Zhang, Kunpeng Liu.  
   _Prototypical Reward Network for Data-Efficient RLHF._  
   *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024.
+  🔗 [Paper Link (ACL Anthology)](https://aclanthology.org/2024.acl-long.771)
 
 - **Xinhao Zhang**, **Jinghan Zhang**, Wujun Si, Kunpeng Liu.  
   _Dynamic Weight Adjusting Deep Q-Networks for Real-Time Environmental Adaptation._  
