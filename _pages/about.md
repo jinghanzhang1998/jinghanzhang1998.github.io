@@ -8,10 +8,9 @@ redirect_from:
 ---
 I am **Jinghan Zhang**, a 3rd year Ph.D. student in Computer Science at **Clemson University** (2025–present), advised by [Dr. Kunpeng Liu](https://www.kunpengliu.com/) in the **CLAIM Lab**.  
 
-My research focuses on **large language model reasoning**, **alignment**, and **data-centric reinforcement learning**.  
-Previously, I studied at **Portland State University** on reasoning optimization and retrieval-augmented generation.  
-I have also interned at **Accenture** as an AI/ML Computational Science Associate Manager, focusing on reinforcement learning and reasoning stability of LLMs.  
+My research centers on large language models (LLMs), reinforcement learning (RL), and agentic systems. I am particularly interested in developing data-efficient and robust reasoning mechanisms that enable large models to perform coherent, verifiable, and interpretable inference. My future work aims to enhance the interpretability and stability of reasoning in large models and agentic systems, paving the way toward more trustworthy, controllable, and explainable AI agents.
+I am also passionate about applying AI to special education and vocational education, exploring how intelligent systems can make learning and career development more accessible and personalized.
 
-My work has appeared in **ACL**, **AAAI**, **IJCAI**, and **ICDM**, covering topics such as data-efficient RLHF, entropy-based reasoning exploration, and feature generation with LLMs.
+I welcome collaboration and interdisciplinary exchange across fields that share the vision of advancing reasoning and intelligence for human-centered AI.
 
 
