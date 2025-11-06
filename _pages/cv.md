@@ -16,8 +16,8 @@ author_profile: true
 - B.S., Statistics, Jilin University, 2016–2020  
 
 **Research Interests**
-- Large Language Models (LLMs) Reasoning and Alignment,
-- Reinforcement Learning (RL),
+- Large Language Models (LLMs) Reasoning and Alignment
+- Reinforcement Learning (RL)
 - Automated Feature Engineering
 - LLM for Education  
 
