@@ -40,4 +40,19 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
+   
 ;
+/* ===== Custom background for Contact Me page ===== */
+.contact-bg {
+  background-image: url("/assets/images/contact-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #fff; /* 让文字在浅色背景上可见 */
+}
+
+.contact-bg .page__content {
+  background: rgba(0, 0, 0, 0.5); /* 添加轻微遮罩让文字更清晰 */
+  padding: 2rem;
+  border-radius: 1rem;
+}
