@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education and Experiences"
+title: "Professional Experience"
 permalink: /cv/
 author_profile: true
 # redirect_from:
@@ -21,7 +21,7 @@ author_profile: true
 - Automated Feature Engineering
 - LLM for Education  
 
-**Professional Experiences**
+**Professional Experience**
 - AI/ML Computational Science Assoc Mgr (Intern), Accenture, Summer 2025  
 - Research Assistant, Clemson University, 2025–present  
 - Research Assistant, Portland State University, 2023–2025  
