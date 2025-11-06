@@ -18,7 +18,7 @@ You can find my up-to-date publication list on **[Google Scholar](https://schola
 - **Jinghan Zhang**, Xiting Wang, Fengran Mo, Yeyang Zhou, Wanfu Gao, Kunpeng Liu.  
   _Entropy-based Exploration Conduction for Multi-step Reasoning._  
   *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, Vienna, Austria, 2025.
-  [pdf](https://aclanthology.org/2025.findings-acl.201/)
+  [[pdf]](https://aclanthology.org/2025.findings-acl.201/)
 
 - **Jinghan Zhang**, Xinhao Zhang, Fengran Mo, Yuzhong Chen, Kunpeng Liu.  
   _Retrieval-Augmented Feature Generation for Domain-Specific Classification._  
@@ -27,10 +27,12 @@ You can find my up-to-date publication list on **[Google Scholar](https://schola
 - **Xinhao Zhang**, **Jinghan Zhang**, Banafsheh Rekabdar, Yuanchun Zhou, Pengfei Wang, Kunpeng Liu.  
   _Dynamic and Adaptive Feature Generation with Large Language Models._  
   *Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI)*, 2025.
+  [[pdf]](https://www.ijcai.org/proceedings/2025/0782.pdf)
 
 - **Xinhao Zhang**, **Jinghan Zhang**, **Fengran Mo**, Dongjie Wang, Yanjie Fu, Kunpeng Liu.  
   _LEKA: LLM-Enhanced Knowledge Augmentation._  
   *Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI)*, 2025.
+  [[pdf]](https://www.ijcai.org/proceedings/2025/0781.pdf)
 
 - **Jinghan Zhang**, Henry Xie, Xinhao Zhang, Kunpeng Liu.  
   _Enhancing Risk Assessment in Transformers with Loss-at-Risk Functions._  
