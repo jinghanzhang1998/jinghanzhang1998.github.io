@@ -16,7 +16,10 @@ author_profile: true
 - B.S., Statistics, Jilin University, 2016–2020  
 
 **Research Interests**
-Large Language Models, Reasoning Alignment, Data-efficient RLHF, Retrieval-Augmented Generation, Knowledge Transfer  
+- Large Language Models (LLMs) Reasoning and Alignment,
+- Reinforcement Learning (RL),
+- Automated Feature Engineering
+- LLM for Education  
 
 **Professional Experiences**
 - AI/ML Computational Science Assoc Mgr (Intern), Accenture, Summer 2025  
