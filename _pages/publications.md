@@ -13,11 +13,12 @@ You can find my up-to-date publication list on **[Google Scholar](https://schola
 - **Jinghan Zhang**, Xiting Wang, Weijieying Ren, Lu Jiang, Dongjie Wang, Kunpeng Liu.  
   _RATT: A Thought Structure for Coherent and Correct LLM Reasoning._  
   *Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
+  [[pdf]](https://doi.org/10.1609/aaai.v39i25.34876)
 
 - **Jinghan Zhang**, Xiting Wang, Fengran Mo, Yeyang Zhou, Wanfu Gao, Kunpeng Liu.  
   _Entropy-based Exploration Conduction for Multi-step Reasoning._  
   *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, Vienna, Austria, 2025.
-  🔗 [PDF](https://aclanthology.org/2025.findings-acl.201/)
+  [pdf](https://aclanthology.org/2025.findings-acl.201/)
 
 - **Jinghan Zhang**, Xinhao Zhang, Fengran Mo, Yuzhong Chen, Kunpeng Liu.  
   _Retrieval-Augmented Feature Generation for Domain-Specific Classification._  
@@ -34,6 +35,7 @@ You can find my up-to-date publication list on **[Google Scholar](https://schola
 - **Jinghan Zhang**, Henry Xie, Xinhao Zhang, Kunpeng Liu.  
   _Enhancing Risk Assessment in Transformers with Loss-at-Risk Functions._  
   *Proceedings of the IEEE International Conference on Knowledge Graph (ICKG)*, 2024 (published 2025).
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10884463)
 
 - **Xiaoyan Han**\*, Jin Ma\*, **Jinghan Zhang**, Kunpeng Liu, Feng Luo.  
   _Understanding the Constraints of RAG-Based Medical LVLMs: A Case Study in Ophthalmic Report Generation._  
