@@ -54,18 +54,17 @@ You can find my up-to-date publication list on **[Google Scholar](https://schola
 - **Xinhao Zhang**, **Jinghan Zhang**, Wujun Si, Kunpeng Liu.  
   _Dynamic Weight Adjusting Deep Q-Networks for Real-Time Environmental Adaptation._  
   *Proceedings of the IEEE International Conference on Knowledge Graph (ICKG)*, 2024.
+  [[pdf]](https://ieeexplore.ieee.org/document/10884195)
 
 - **Zaitian Wang**, **Jinghan Zhang**, Xinhao Zhang, Kunpeng Liu, Pengfei Wang, Yuanchun Zhou.  
   _Diversity-Oriented Data Augmentation with Large Language Models._  
   *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, 2025.
+  [[pdf]](https://aclanthology.org/2025.acl-long.1084/）
 
-- **Jinghan Zhang**, Kunpeng Liu.  
-  _Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning._  
-  *Proceedings of the IEEE International Conference on Big Data (BigData)*, 2024.
 
 ---
 
 ### 2023
 - Chang-Tien Lu, Le Ma, Ran Zhang, Yikun Han, Shirui Yu, Zaitian Wang, Zhiyuan Ning, **Jinghan Zhang**, Ping Xu, Pengjiang Li, Wei Ju, Chong Chen, Dongjie Wang, Kunpeng Liu, Pengyang Wang, Pengfei Wang, Yanjie Fu, Chunjiang Liu, Yuanchun Zhou.  
   _A Comprehensive Survey on Vector Databases: Storage and Retrieval Techniques, Challenges, and Future Directions._  
-  *arXiv preprint arXiv:2310.11703*, 2023.
+  [[pdf]](https://arxiv.org/abs/2310.11703)
