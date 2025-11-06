@@ -1,9 +1,11 @@
 ---
-layout: archive
-title: "Contact"
+title: "Contact Me"
 permalink: /contact/
+layout: single
 author_profile: true
+classes: "contact-bg"
 ---
+
 
 📧 **Email:** jinghaz@clemson.edu
 
