@@ -49,7 +49,7 @@ You can find my up-to-date publication list on **[Google Scholar](https://schola
 - **Jinghan Zhang**, Xiting Wang, Yiqiao Jin, Changyu Chen, Xinhao Zhang, Kunpeng Liu.  
   _Prototypical Reward Network for Data-Efficient RLHF._  
   *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024.
-  🔗 [Paper Link (ACL Anthology)](https://aclanthology.org/2024.acl-long.771)
+  [[pdf]](https://aclanthology.org/2024.acl-long.771)
 
 - **Xinhao Zhang**, **Jinghan Zhang**, Wujun Si, Kunpeng Liu.  
   _Dynamic Weight Adjusting Deep Q-Networks for Real-Time Environmental Adaptation._  
