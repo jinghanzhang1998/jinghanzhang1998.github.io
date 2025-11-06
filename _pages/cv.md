@@ -15,12 +15,6 @@ author_profile: true
 - M.I., Insurance, Jilin University, 2021–2023  
 - B.S., Statistics, Jilin University, 2016–2020  
 
-**Research Interests**
-- Large Language Models (LLMs) Reasoning and Alignment
-- Reinforcement Learning (RL)
-- Automated Feature Engineering
-- LLM for Education  
-
 **Professional Experience**
 - AI/ML Computational Science Assoc Mgr (Intern), Accenture, Summer 2025  
 - Research Assistant, Clemson University, 2025–present  
