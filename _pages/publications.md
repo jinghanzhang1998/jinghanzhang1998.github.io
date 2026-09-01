@@ -9,6 +9,34 @@ toc: true
 
 You can find my up-to-date publication list on **[Google Scholar](https://scholar.google.com/citations?user=vq6tSekAAAAJ&hl=en&oi=ao)**.
 
+### 2026
+- Kunpeng Liu, Nori Nakata, **Jinghan Zhang**, Guodong Chen, Rui Liu, Tao Zhe, Dongjie Wang, Xinyuan Wang, Hongyu Cao, Yanjie Fu.  
+  _Beyond Simulate-Then-Optimize: Geothermal AI for Geothermal Dynamics Prediction, Design, and Discovery._  
+  *ACM SIGKDD Explorations Newsletter*, 28(1), 102–114, 2026.
+  [[pdf]](https://doi.org/10.1145/3820356.3820363)
+
+- **Jinghan Zhang**, Xinhao Zhang, Fengran Mo, Dakshak Keerthi Chandra, Yu-Zhong Chen, Fei Xie, Kunpeng Liu.  
+  _Reliable Retrieval-Augmented Feature Generation with Large Language Model Reasoning._  
+  *Knowledge and Information Systems*, 68, Article 172, 2026.
+  [[pdf]](https://doi.org/10.1007/s10115-026-02792-4)
+
+- Fengran Mo, Zhan Su, Yuchen Hui, **Jinghan Zhang**, Jia Ao Sun, Zheyuan Liu, Chao Zhang, Tetsuya Sakai, Jian-Yun Nie.  
+  _OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in RAG._  
+  *Proceedings of the ACM Web Conference 2026 (TheWebConf)*, 2252–2262, 2026.
+  [[pdf]](https://doi.org/10.1145/3774904.3792524)
+
+- **Jinghan Zhang**, Fengran Mo, Tharindu Cyril Weerasooriya, Xinyue Ye, Dongjie Wang, Yanjie Fu, Kunpeng Liu.  
+  _Blind Spot Navigation in Large Language Model Reasoning with Thought Space Explorer._  
+  *Findings of the Association for Computational Linguistics: EACL*, 3691–3707, 2026.
+  [[pdf]](https://aclanthology.org/2026.findings-eacl.191/)
+
+- Fengran Mo, **Jinghan Zhang**, Yuchen Hui, Jia Ao Sun, Zhichao Xu, Zhan Su, Jian-Yun Nie.  
+  _ConvMix: A Mixed-Criteria Data Augmentation Framework for Conversational Dense Retrieval._  
+  *Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI)*, 40(18), 15555–15563, 2026.
+  [[pdf]](https://doi.org/10.1609/aaai.v40i18.38584)
+
+---
+
 ### 2025
 - **Jinghan Zhang**, Xiting Wang, Weijieying Ren, Lu Jiang, Dongjie Wang, Kunpeng Liu.  
   _RATT: A Thought Structure for Coherent and Correct LLM Reasoning._  
@@ -20,9 +48,10 @@ You can find my up-to-date publication list on **[Google Scholar](https://schola
   *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, Vienna, Austria, 2025.
   [[pdf]](https://aclanthology.org/2025.findings-acl.201/)
 
-- **Jinghan Zhang**, Xinhao Zhang, Fengran Mo, Yuzhong Chen, Kunpeng Liu.  
+- Xinhao Zhang, **Jinghan Zhang**, Fengran Mo, Dakshak Keerthi Chandra, Yu-Zhong Chen, Fei Xie, Kunpeng Liu.  
   _Retrieval-Augmented Feature Generation for Domain-Specific Classification._  
-  *Proceedings of the 25th IEEE International Conference on Data Mining (ICDM)*, 2025.
+  *Proceedings of the 25th IEEE International Conference on Data Mining (ICDM)*, 943–952, 2025.
+  [[pdf]](https://doi.org/10.1109/ICDM65498.2025.00102)
 
 - **Xinhao Zhang**, **Jinghan Zhang**, Banafsheh Rekabdar, Yuanchun Zhou, Pengfei Wang, Kunpeng Liu.  
   _Dynamic and Adaptive Feature Generation with Large Language Models._  
