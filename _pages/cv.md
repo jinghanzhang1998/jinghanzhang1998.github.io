@@ -22,7 +22,3 @@ author_profile: true
 
 - **Teaching Assistant**, Clemson University, Fall 2026. <br>
   CPSC 4430: Machine Learning.
-
-## Mentoring Experience
-
-- **Henry Xie**, Westview High School. Mentored research resulting in publications at IEEE Big Data 2024, IEEE ICKG 2024, and SIGDIAL 2025. The IEEE Big Data paper received the Best Paper Award for the High School Symposium.
