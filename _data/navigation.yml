@@ -23,7 +23,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Services"
+  - title: "Academic Service"
     url: /services/
 
   - title: "Experience"

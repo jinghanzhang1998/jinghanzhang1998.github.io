@@ -10,7 +10,7 @@
 locale                   : "SC-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Jinghan Zhang"
-description              : "Ph.D. student in Computer Science at Clemson University"
+description              : "Ph.D. candidate in Computer Science at Clemson University"
 url                      : "https://jinghanzhang1998.github.io"
 baseurl                  : ""
 repository               : "jinghanzhang1998/jinghanzhang1998.github.io"
@@ -19,10 +19,10 @@ repository               : "jinghanzhang1998/jinghanzhang1998.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar: "profile.png"
+  avatar: "986C4C48-D535-44E3-98EE-9AAA94B7186F_1_105_c.jpeg"
   name: "Jinghan Zhang"
   pronouns: "She/Her"
-  bio: "Ph.D. student in Computer Science, Clemson University"
+  bio: "Ph.D. candidate in Computer Science, Clemson University"
   location: "Clemson, SC, USA"
   employer: "Clemson University"
   email: "jinghaz@clemson.edu"

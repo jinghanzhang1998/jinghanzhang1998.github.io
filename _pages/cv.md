@@ -1,21 +1,28 @@
 ---
 layout: archive
-title: "Professional Experience"
+title: "Experience"
 permalink: /cv/
 author_profile: true
-# redirect_from:
-#   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-**Education**
-- Ph.D., Computer Science, Clemson University, 2025–present  
-- Ph.D., Computer Science, Portland State University, 2023–2025  
-- M.I., Insurance, Jilin University, 2021–2023  
-- B.S., Statistics, Jilin University, 2016–2020  
+- **Ph.D. in Computer Science**, Clemson University, expected 2027.
+- **M.I. in Insurance**, Jilin University, 2023.
+- **B.S. in Statistics**, Jilin University, 2020.
 
-**Professional Experience**
-- AI/ML Computational Science Assoc Mgr (Intern), Accenture, Summer 2025  
-- Research Assistant, Clemson University, 2025–present  
-- Research Assistant, Portland State University, 2023–2025  
+## Professional Experience
+
+- **Applied Scientist Intern, Customer Experience Products**, Amazon, Summer 2026. <br>
+  Research on uncertainty measurement and large language model evaluation.
+- **Artificial Intelligence and Machine Learning Computational Science Associate Manager (Intern)**, Accenture, Summer 2025. <br>
+  Research on large language model reasoning and reinforcement learning.
+
+## Teaching Experience
+
+- **Teaching Assistant**, Clemson University, Fall 2026. <br>
+  CPSC 4430: Machine Learning.
+
+## Mentoring Experience
+
+- **Henry Xie**, Westview High School. Mentored research resulting in publications at IEEE Big Data 2024, IEEE ICKG 2024, and SIGDIAL 2025. The IEEE Big Data paper received the Best Paper Award for the High School Symposium.
