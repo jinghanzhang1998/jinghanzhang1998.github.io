@@ -10,6 +10,10 @@ You can also find my up-to-date publication list on **[Google Scholar](https://s
 
 ### 2026
 
+- **[NeurIPS] Jinghan Zhang**, Fengran Mo, Tharindu Cyril Weerasooriya, Ruimin Dai, Xiaoyan Han, Yanjie Fu, Dakuo Wang, Kunpeng Liu. <br>
+  _StaRPO: Stability-Augmented Reinforcement Policy Optimization._ <br>
+  *Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems*, 2026. [[paper]](https://arxiv.org/abs/2604.08905)
+
 - **[EACL] Jinghan Zhang**, Fengran Mo, Tharindu Cyril Weerasooriya, Xinyue Ye, Dongjie Wang, Yanjie Fu, Kunpeng Liu. <br>
   _Blind Spot Navigation in Large Language Model Reasoning with Thought Space Explorer._ <br>
   *Findings of the Association for Computational Linguistics: EACL*, 2026. [[paper]](https://aclanthology.org/2026.findings-eacl.191/)
